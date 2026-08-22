@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
