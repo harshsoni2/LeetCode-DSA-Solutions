@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -151,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 <!---LeetCode Topics End-->
