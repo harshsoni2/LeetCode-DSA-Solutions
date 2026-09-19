@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2418-sort-the-people](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2418-sort-the-people](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2418-sort-the-people](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [2418-sort-the-people](https://github.com/harshsoni2/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
