@@ -3,19 +3,23 @@ class Solution {
         if(s1.length() > s2.length()){
             return false;
         }
-        int[] s1Freq = new int[26];
-        int[] windowFreq = new int[26];
-        for(char ch : s1.toCharArray()){
-            s1Freq[ch - 'a']++;
+        int[] freq1 = new int[26];
+        int[] window = new int[26];
+
+        for(int i = 0; i < s1.length(); i++){
+            freq1[s1.charAt(i) - 'a']++;
         }
-        int left = 0;
-        for(int right = 0; right < s2.length(); right++){
-            windowFreq[s2.charAt(right) - 'a']++;
-            if(right - left + 1 > s1.length()){
-                windowFreq[s2.charAt(left) - 'a']--;
-                left++;
-            }
-            if(right - left + 1 == s1.length() && Arrays.equals(s1Freq, windowFreq)){
+        for(int i = 0; i < s1.length(); i++){
+            window[s2.charAt(i) - 'a']++;
+        }
+        if(Arrays.equals(freq1, window)){
+            return true;
+        }
+        for(int i = s1.length(); i < s2.length(); i++){
+            window[s2.charAt(i - s1.length()) - 'a']--;
+            window[s2.charAt(i) - 'a']++;
+
+            if(Arrays.equals(freq1, window)){
                 return true;
             }
         }
